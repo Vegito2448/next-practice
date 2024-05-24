@@ -1,0 +1,8 @@
+.link{
+  @apply hover:underline hover:text-blue-400 mr-2 transition-all
+  /* @apply works to apply tailwind css classes directly here in css */
+}
+
+.active-link{
+  @apply text-blue-500
+}

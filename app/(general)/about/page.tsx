@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: 'SEO Title',
-  description: 'SEO Title',
-  keywords: ['SEO', 'Title', 'About', "Information"],
+  title: "SEO Title",
+  description: "SEO Description",
+  keywords: ["SEO", "Title", "About", "Information"],
 };
 
 const AboutPage = () => {
